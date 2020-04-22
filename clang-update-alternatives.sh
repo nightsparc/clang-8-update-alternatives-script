@@ -110,6 +110,6 @@ sudo update-alternatives \
 --slave   /usr/bin/lldb-vscode           	lldb-vscode            		/usr/bin/lldb-vscode-8 \
 
 # make system default
-sudo update-alternatives --install /usr/bin/cc  cc  /usr/bin/clang      100
-sudo update-alternatives --install /usr/bin/c++ c++ /usr/bin/clang++    100
+#sudo update-alternatives --install /usr/bin/cc  cc  /usr/bin/clang      100
+#sudo update-alternatives --install /usr/bin/c++ c++ /usr/bin/clang++    100
 
